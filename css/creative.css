@@ -183,7 +183,6 @@ header {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover;
 }
 
 header .header-content {
